@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm currently on an exciting journey to become a **Full-St
 
 - 🎯 **Goal**: Master full-stack development and build 3-4 portfolio-worthy projects
 - 📚 **Currently Learning**: JavaScript, CSS, and following the [Full-Stack Roadmap](https://roadmap.sh/full-stack)
-- 💻 **Tech Stack in Progress**: HTML → CSS → JavaScript → React → Node.js → Databases → DevOps & Cloud
+- 💻 **Tech Stack in Progress**: CSS → JavaScript → React → Node.js → Databases → DevOps & Cloud
 - 🎮 **When not coding**: Exploring philosophy (nihilism-absurdism spectrum, Advaita Vedanta, mythologies), and diving into AAA & indie games
 - 🤐 **Privacy First**: I prefer to keep my personal identity anonymous and let my code take incharge
 
@@ -17,7 +17,6 @@ Welcome to my GitHub! I'm currently on an exciting journey to become a **Full-St
 ## 🛠️ Skills & Technologies
 
 **Currently Learning:**
-- ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ```
